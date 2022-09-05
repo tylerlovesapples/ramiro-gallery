@@ -31,7 +31,6 @@ def main(ext):
         # Ignore other files like .DS_Store
         if not os.path.isdir(PHOTO_PATH + folder):
             continue
-
         for f in os.listdir(PHOTO_PATH + folder):
             path = PHOTO_PATH + folder + '/' + f
             if is_image_path(path) and is_original(path):

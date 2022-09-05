@@ -1,57 +1,46 @@
 #!/usr/bin/env python
-
-try:
-    from StringIO import StringIO as sbIO
-except ImportError:
-    from io import BytesIO as sbIO
-import struct
 import os
+import re
 import sys
 import json
-import re
+import struct
+try:
+    from io import BytesIO as sbIO
+except ImportError:
+    from StringIO import StringIO as sbIO
 
 PATH = os.path.dirname(__file__) + '/../'
 RELATIVE_PATH = 'photos'
 PHOTO_PATH = PATH + RELATIVE_PATH
 
-
 def is_original(path):
     return '.min.' not in path and '.placeholder.' not in path and is_image_path(path)
-
 
 def is_not_min_path(path):
     return not is_min_path(path) and is_image_path(path)
 
-
 def is_min_path(path):
     return '.min.' in path and is_image_path(path)
-
 
 def get_directories():
     items = os.listdir(PHOTO_PATH)
     return list(filter(lambda x: os.path.isdir(PHOTO_PATH + '/' + x), items))
 
-
 def is_image_path(path):
     return re.search(r'\.(jpe?g|png)$', path)
-
 
 def get_placeholder_path(path):
     return get_path(path, 'placeholder')
 
-
 def get_min_path(path):
     return get_path(path, 'min')
-
 
 def get_path(path, ext):
     return re.sub(r'\.(png|jpe?g)$', '.' + ext + '.\g<1>', path)
 
-
 def get_images(path):
     items = os.listdir(PHOTO_PATH + '/' + path)
     filtered_items = list(filter(is_original, items))
-
     result = []
     for img in filtered_items:
         width, height = 0, 0
@@ -86,11 +75,9 @@ def run():
         print(str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path))
         config[path] = get_images(path)
-
         print('   Done processing {l} photos for "{album}"\n'.format(
             l=len(config[path]),
             album=path))
-
     print('Done processing all {length} albums'.format(length=len(dirs)))
     print('Writing files to {path} now...'.format(path=PATH + 'config.json'))
     write_config(config)
@@ -109,17 +96,14 @@ def getImageInfo(data):
     height = -1
     width = -1
     content_type = ''
-
     # See PNG 2. Edition spec (http://www.w3.org/TR/PNG/)
     # Bytes 0-7 are below, 4-byte chunk length, then 'IHDR'
     # and finally the 4-byte width, height
-    if ((size >= 24) and data.startswith(b'\211PNG\r\n\032\n') and
-       (data[12:16] == b'IHDR')):
+    if ((size >= 24) and data.startswith(b'\211PNG\r\n\032\n') and (data[12:16] == b'IHDR')):
         content_type = 'image/png'
         w, h = struct.unpack(">LL", data[16:24])
         width = int(w)
         height = int(h)
-
     # Maybe this is for an older PNG version.
     elif (size >= 16) and data.startswith(b'\211PNG\r\n\032\n'):
         # Check to see if we have the right content type
@@ -127,16 +111,13 @@ def getImageInfo(data):
         w, h = struct.unpack(">LL", data[8:16])
         width = int(w)
         height = int(h)
-
     # handle JPEGs
     elif (size >= 2) and data.startswith(b'\xff\xd8'):
         content_type = 'image/jpeg'
-
         try:
             jpeg = sbIO(data)  # Python 3
         except:
             jpeg = sbIO(str(data))  # Python 2
-
         jpeg.read(2)
         b = jpeg.read(1)
         try:
@@ -158,7 +139,6 @@ def getImageInfo(data):
             pass
         except ValueError:
             pass
-
     return content_type, width, height
 
 if __name__ == '__main__':

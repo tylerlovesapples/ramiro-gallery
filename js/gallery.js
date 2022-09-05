@@ -20,22 +20,27 @@ class Config {
  * Abstract class for rendering a layout.
  */
 class Renderer {
+  
   constructor(domId) {
     this._rootElem      = document.getElementById(domId);
     var bounds          = this._rootElem.getBoundingClientRect();
-    this._currentWidth  = (bounds.right + 300) - (bounds.left - 300);
+    this._currentWidth  = (bounds.right) - (bounds.left);
   }
+
   render(config) {}
+
   getPhotos(config, photos) {
-    var photos = photos.map((p) => { return new Photo(p); });
+    var photos = photos.map((p) => {return new Photo(p); });
     if (config.shuffle) {
       shuffle(photos);
     }
     return photos
   }
+
   rootElem() {
     return this._rootElem;
   }
+
   createHeader(title) {
     var sectionElem   = document.createElement('section');
     sectionElem.id    = title;
@@ -44,6 +49,7 @@ class Renderer {
     sectionElem.appendChild(header);
     return sectionElem;
   }
+
   createImageElement(photo, width, height, spacing) {
     var image                 = new Image();
     image.style.width         = width;
