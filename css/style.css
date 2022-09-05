@@ -5,8 +5,8 @@ body {
 
 #container {
   margin: 0 auto;
-  max-width: 1777px;
-  width: 90%;
+  max-width: 1440px;
+  width: 100%;
 }
 
 .header {
@@ -56,10 +56,8 @@ h3 {
   padding-top: 32px;
 }
 
-.links__icon,
-.links__icon:visited,
-.links__icon:link {
-  color: #ccc;
+.links__icon, .links__icon:visited, .links__icon:link {
+  color: rgb(53, 193, 186);
   text-decoration: none;
   font-size: 14px;
   margin-right: 8px;
@@ -68,7 +66,7 @@ h3 {
 }
 
 .links__icon:hover {
-  color: #999;
+  color: rgb(123, 123, 123);
 }
 
 .view-ig {
