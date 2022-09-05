@@ -89,7 +89,7 @@ https://github.com/andyzg/gallery/issues/1''')
 
 
 ############################################################
-# Thanks StackOverflow: http://stackoverflow.com/a/3175473 #
+# Thanks StackOverflow: http://stackoverflow.com/a/3175473
 ############################################################
 def getImageInfo(data):
     size = len(data)
