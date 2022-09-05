@@ -44,8 +44,7 @@
 		if ('bubbles' in e) {
 			if (e.bubbles) e.stopPropagation()
 		} else {
-			// Internet Explorer before version 9
-			e.cancelBubble = true
+			e.cancelBubble = true  //IE8
 		}
 	}
 

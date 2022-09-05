@@ -23,7 +23,7 @@ class Renderer {
   constructor(domId) {
     this._rootElem      = document.getElementById(domId);
     var bounds          = this._rootElem.getBoundingClientRect();
-    this._currentWidth  = bounds.right - bounds.left;
+    this._currentWidth  = (bounds.right + 300) - (bounds.left - 300);
   }
   render(config) {}
   getPhotos(config, photos) {
