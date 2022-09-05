@@ -8,8 +8,8 @@ img[data-action="zoom"] {
   position: relative;
   z-index: 99999;
   -webkit-transition: all 100ms;
-       -o-transition: all 100ms;
-          transition: all 100ms;
+  -o-transition: all 100ms;
+  transition: all 100ms;
 }
 img.zoom-img {
   cursor: pointer;
@@ -35,9 +35,9 @@ img.zoom-img {
   pointer-events: none;
   filter: "alpha(opacity=0)";
   opacity: 0;
-  -webkit-transition:      opacity 300ms;
-       -o-transition:      opacity 300ms;
-          transition:      opacity 300ms;
+  -webkit-transition: opacity 111ms;
+  -o-transition:      opacity 111ms;
+  transition:         opacity 111ms;
 }
 .zoom-overlay-open .zoom-overlay {
   filter: "alpha(opacity=100)";
