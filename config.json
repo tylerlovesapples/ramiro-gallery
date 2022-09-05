@@ -1,228 +1,272 @@
 {
-  "Weddings": [
+  "Wedding": [
     {
-      "width": 1280,
-      "height": 855,
-      "path": "./photos/Weddings/RET_0440__35.0 mm f-2.0__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0440__35.0 mm f-2.0__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 3214,
+      "height": 4963,
+      "path": "./photos/Wedding/14.jpg",
+      "compressed_path": "./photos/Wedding/14.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0440__35.0 mm f-2.0__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/14.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 854,
-      "path": "./photos/Weddings/untitled-9744__18.0-35.0 mm f-3.5-4.5__iso1100__7360 x 4912 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-9744__18.0-35.0 mm f-3.5-4.5__iso1100__7360 x 4912 Large.min.jpeg",
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Wedding/15.jpg",
+      "compressed_path": "./photos/Wedding/15.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-9744__18.0-35.0 mm f-3.5-4.5__iso1100__7360 x 4912 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/15.placeholder.jpg"
     },
     {
-      "width": 854,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0161__35.0 mm f-2.0__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0161__35.0 mm f-2.0__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 4775,
+      "height": 3393,
+      "path": "./photos/Wedding/17.jpg",
+      "compressed_path": "./photos/Wedding/17.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0161__35.0 mm f-2.0__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/17.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 1195,
-      "path": "./photos/Weddings/untitled-26__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-26__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 5985,
+      "height": 3995,
+      "path": "./photos/Wedding/03.jpg",
+      "compressed_path": "./photos/Wedding/03.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-26__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/03.placeholder.jpg"
     },
     {
-      "width": 842,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0648__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0648__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 6903,
+      "height": 4795,
+      "path": "./photos/Wedding/02.jpg",
+      "compressed_path": "./photos/Wedding/02.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0648__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/02.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 889,
-      "path": "./photos/Weddings/untitled-9723__35.0 mm f-2.0__iso200__7360 x 4912 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-9723__35.0 mm f-2.0__iso200__7360 x 4912 Large.min.jpeg",
+      "width": 5930,
+      "height": 3959,
+      "path": "./photos/Wedding/16.jpg",
+      "compressed_path": "./photos/Wedding/16.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-9723__35.0 mm f-2.0__iso200__7360 x 4912 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/16.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 938,
-      "path": "./photos/Weddings/untitled-9759__18.0-35.0 mm f-3.5-4.5__iso200__7360 x 4912 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-9759__18.0-35.0 mm f-3.5-4.5__iso200__7360 x 4912 Large.min.jpeg",
+      "width": 5681,
+      "height": 4016,
+      "path": "./photos/Wedding/12.jpg",
+      "compressed_path": "./photos/Wedding/12.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-9759__18.0-35.0 mm f-3.5-4.5__iso200__7360 x 4912 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/12.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 1059,
-      "path": "./photos/Weddings/untitled-28__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-28__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Wedding/06.jpg",
+      "compressed_path": "./photos/Wedding/06.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-28__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/06.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 823,
-      "path": "./photos/Weddings/untitled-28__0 mm f---__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-28__0 mm f---__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 3825,
+      "height": 5968,
+      "path": "./photos/Wedding/07.jpg",
+      "compressed_path": "./photos/Wedding/07.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-28__0 mm f---__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/07.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 835,
-      "path": "./photos/Weddings/RET_0130__50.0 mm f-1.8__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0130__50.0 mm f-1.8__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 5711,
+      "height": 3725,
+      "path": "./photos/Wedding/13.jpg",
+      "compressed_path": "./photos/Wedding/13.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0130__50.0 mm f-1.8__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/13.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 910,
-      "path": "./photos/Weddings/RET_0457__35.0 mm f-2.0__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0457__35.0 mm f-2.0__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 7190,
+      "height": 4735,
+      "path": "./photos/Wedding/05.jpg",
+      "compressed_path": "./photos/Wedding/05.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0457__35.0 mm f-2.0__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/05.placeholder.jpg"
     },
     {
-      "width": 854,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_9985__80.0-200.0 mm f-2.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_9985__80.0-200.0 mm f-2.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Wedding/11.jpg",
+      "compressed_path": "./photos/Wedding/11.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_9985__80.0-200.0 mm f-2.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/11.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 905,
-      "path": "./photos/Weddings/RET_0086__50.0 mm f-1.8__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0086__50.0 mm f-1.8__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 4016,
+      "height": 5657,
+      "path": "./photos/Wedding/10.jpg",
+      "compressed_path": "./photos/Wedding/10.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0086__50.0 mm f-1.8__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/10.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 967,
-      "path": "./photos/Weddings/untitled-29__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-29__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 6631,
+      "height": 4861,
+      "path": "./photos/Wedding/04.jpg",
+      "compressed_path": "./photos/Wedding/04.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-29__Nikon AF-S NIKKOR 50mm f-1.4G__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/04.placeholder.jpg"
     },
     {
-      "width": 854,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0082__50.0 mm f-1.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0082__50.0 mm f-1.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 3729,
+      "height": 4896,
+      "path": "./photos/Wedding/35.jpg",
+      "compressed_path": "./photos/Wedding/35.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0082__50.0 mm f-1.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/35.placeholder.jpg"
     },
     {
-      "width": 909,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0066__50.0 mm f-1.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0066__50.0 mm f-1.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Wedding/09.jpg",
+      "compressed_path": "./photos/Wedding/09.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0066__50.0 mm f-1.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/09.placeholder.jpg"
     },
     {
-      "width": 788,
-      "height": 1280,
-      "path": "./photos/Weddings/untitled-32__85 mm f-1.8__iso200__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-32__85 mm f-1.8__iso200__6048 x 4024 Large.min.jpeg",
+      "width": 3799,
+      "height": 5690,
+      "path": "./photos/Wedding/08.jpg",
+      "compressed_path": "./photos/Wedding/08.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-32__85 mm f-1.8__iso200__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/08.placeholder.jpg"
     },
     {
-      "width": 854,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0288__35.0 mm f-2.0__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0288__35.0 mm f-2.0__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 3708,
+      "height": 5573,
+      "path": "./photos/Wedding/34.jpg",
+      "compressed_path": "./photos/Wedding/34.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0288__35.0 mm f-2.0__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/34.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 843,
-      "path": "./photos/Weddings/untitled-9806__18.0-35.0 mm f-3.5-4.5__iso1000__7360 x 4912 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-9806__18.0-35.0 mm f-3.5-4.5__iso1000__7360 x 4912 Large.min.jpeg",
+      "width": 5751,
+      "height": 3885,
+      "path": "./photos/Wedding/36.jpg",
+      "compressed_path": "./photos/Wedding/36.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-9806__18.0-35.0 mm f-3.5-4.5__iso1000__7360 x 4912 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/36.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 854,
-      "path": "./photos/Weddings/RET_0643__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0643__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.min.jpeg",
+      "width": 6048,
+      "height": 4024,
+      "path": "./photos/Wedding/33.jpg",
+      "compressed_path": "./photos/Wedding/33.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0643__80.0-200.0 mm f-2.8__iso800__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/33.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 852,
-      "path": "./photos/Weddings/untitled-26__0 mm f---__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-26__0 mm f---__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 3709,
+      "height": 5761,
+      "path": "./photos/Wedding/27.jpg",
+      "compressed_path": "./photos/Wedding/27.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-26__0 mm f---__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/27.placeholder.jpg"
     },
     {
-      "width": 854,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0064__50.0 mm f-1.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0064__50.0 mm f-1.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 5895,
+      "height": 3790,
+      "path": "./photos/Wedding/26.jpg",
+      "compressed_path": "./photos/Wedding/26.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0064__50.0 mm f-1.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/26.placeholder.jpg"
     },
     {
-      "width": 824,
-      "height": 1280,
-      "path": "./photos/Weddings/untitled-41__Nikon AF Nikkor 35mm f-2D__iso100__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-41__Nikon AF Nikkor 35mm f-2D__iso100__6048 x 4024 Large.min.jpeg",
+      "width": 5532,
+      "height": 3693,
+      "path": "./photos/Wedding/18.jpg",
+      "compressed_path": "./photos/Wedding/18.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-41__Nikon AF Nikkor 35mm f-2D__iso100__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/18.placeholder.jpg"
     },
     {
-      "width": 855,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0056__50.0 mm f-1.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0056__50.0 mm f-1.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 5888,
+      "height": 3918,
+      "path": "./photos/Wedding/25.jpg",
+      "compressed_path": "./photos/Wedding/25.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0056__50.0 mm f-1.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/25.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 852,
-      "path": "./photos/Weddings/untitled-47__Nikon AF DC-Nikkor 135mm f-2D__iso400__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-47__Nikon AF DC-Nikkor 135mm f-2D__iso400__6048 x 4024 Large.min.jpeg",
+      "width": 3912,
+      "height": 5949,
+      "path": "./photos/Wedding/19.jpg",
+      "compressed_path": "./photos/Wedding/19.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-47__Nikon AF DC-Nikkor 135mm f-2D__iso400__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Wedding/19.placeholder.jpg"
+    }
+  ],
+  "Trash": [
+    {
+      "width": 5384,
+      "height": 3834,
+      "path": "./photos/Trash/01.jpg",
+      "compressed_path": "./photos/Trash/01.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Trash/01.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 963,
-      "path": "./photos/Weddings/untitled-65__Nikon AF-S NIKKOR 50mm f-1.4G__iso200__6048 x 4024 Large.jpeg",
-      "compressed_path": "./photos/Weddings/untitled-65__Nikon AF-S NIKKOR 50mm f-1.4G__iso200__6048 x 4024 Large.min.jpeg",
+      "width": 5145,
+      "height": 3861,
+      "path": "./photos/Trash/30.jpg",
+      "compressed_path": "./photos/Trash/30.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/untitled-65__Nikon AF-S NIKKOR 50mm f-1.4G__iso200__6048 x 4024 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Trash/30.placeholder.jpg"
+    }
+  ],
+  "Portraits": [
+    {
+      "width": 3635,
+      "height": 5756,
+      "path": "./photos/Portraits/28.jpg",
+      "compressed_path": "./photos/Portraits/28.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/28.placeholder.jpg"
     },
     {
-      "width": 820,
-      "height": 1280,
-      "path": "./photos/Weddings/RET_0021__50.0 mm f-1.8__iso640__6016 x 4016 Large.jpeg",
-      "compressed_path": "./photos/Weddings/RET_0021__50.0 mm f-1.8__iso640__6016 x 4016 Large.min.jpeg",
+      "width": 3890,
+      "height": 5558,
+      "path": "./photos/Portraits/29.jpg",
+      "compressed_path": "./photos/Portraits/29.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/RET_0021__50.0 mm f-1.8__iso640__6016 x 4016 Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Portraits/29.placeholder.jpg"
     },
     {
-      "width": 1280,
-      "height": 912,
-      "path": "./photos/Weddings/_TYR0779235Why won't you move_ Large.jpeg",
-      "compressed_path": "./photos/Weddings/_TYR0779235Why won't you move_ Large.min.jpeg",
+      "width": 3725,
+      "height": 6048,
+      "path": "./photos/Portraits/20.jpg",
+      "compressed_path": "./photos/Portraits/20.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Weddings/_TYR0779235Why won't you move_ Large.placeholder.jpeg"
+      "placeholder_path": "./photos/Portraits/20.placeholder.jpg"
+    },
+    {
+      "width": 4124,
+      "height": 3850,
+      "path": "./photos/Portraits/22.jpg",
+      "compressed_path": "./photos/Portraits/22.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/22.placeholder.jpg"
+    },
+    {
+      "width": 4556,
+      "height": 3771,
+      "path": "./photos/Portraits/23.jpg",
+      "compressed_path": "./photos/Portraits/23.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/23.placeholder.jpg"
+    },
+    {
+      "width": 6048,
+      "height": 4024,
+      "path": "./photos/Portraits/31.jpg",
+      "compressed_path": "./photos/Portraits/31.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/31.placeholder.jpg"
     }
   ]
 }
